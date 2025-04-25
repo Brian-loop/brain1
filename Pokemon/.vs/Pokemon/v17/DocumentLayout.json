@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\brian.vcruz\\source\\repos\\array\\Pokemon\\",
+  "WorkspaceRootPath": "C:\\Users\\brian.vcruz\\source\\repos\\array\\brain1\\Pokemon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97869EB7-423F-4FD6-832E-1CC3BFD38BC9}|Pokemon\\Pokemon.csproj|c:\\users\\brian.vcruz\\source\\repos\\array\\pokemon\\pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97869EB7-423F-4FD6-832E-1CC3BFD38BC9}|Pokemon\\Pokemon.csproj|c:\\users\\brian.vcruz\\source\\repos\\array\\brain1\\pokemon\\pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97869EB7-423F-4FD6-832E-1CC3BFD38BC9}|Pokemon\\Pokemon.csproj|solutionrelative:pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\array\\Pokemon\\Pokemon\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\array\\brain1\\Pokemon\\Pokemon\\Program.cs",
               "RelativeDocumentMoniker": "Pokemon\\Program.cs",
-              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\array\\Pokemon\\Pokemon\\Program.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\array\\brain1\\Pokemon\\Pokemon\\Program.cs",
               "RelativeToolTip": "Pokemon\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T13:38:31.024Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
