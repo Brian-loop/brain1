@@ -1,0 +1,14 @@
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\bin\Debug\net8.0\Boneco se mexendo.exe
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\bin\Debug\net8.0\Boneco se mexendo.deps.json
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\bin\Debug\net8.0\Boneco se mexendo.runtimeconfig.json
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\bin\Debug\net8.0\Boneco se mexendo.dll
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\bin\Debug\net8.0\Boneco se mexendo.pdb
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\obj\Debug\net8.0\Boneco se mexendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\obj\Debug\net8.0\Boneco se mexendo.AssemblyInfoInputs.cache
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\obj\Debug\net8.0\Boneco se mexendo.AssemblyInfo.cs
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\obj\Debug\net8.0\Boneco se mexendo.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\obj\Debug\net8.0\Boneco se mexendo.dll
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\obj\Debug\net8.0\refint\Boneco se mexendo.dll
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\obj\Debug\net8.0\Boneco se mexendo.pdb
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\obj\Debug\net8.0\Boneco se mexendo.genruntimeconfig.cache
+C:\Users\brian.vcruz\source\repos\Boneco se mexendo\Boneco se mexendo\obj\Debug\net8.0\ref\Boneco se mexendo.dll

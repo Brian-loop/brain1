@@ -1,0 +1,14 @@
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\obj\Debug\net8.0\aula_de_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\obj\Debug\net8.0\aula_de_Array.AssemblyInfoInputs.cache
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\obj\Debug\net8.0\aula_de_Array.AssemblyInfo.cs
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\obj\Debug\net8.0\aula_de_Array.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\bin\Debug\net8.0\aula_de_Array.exe
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\bin\Debug\net8.0\aula_de_Array.deps.json
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\bin\Debug\net8.0\aula_de_Array.runtimeconfig.json
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\bin\Debug\net8.0\aula_de_Array.dll
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\bin\Debug\net8.0\aula_de_Array.pdb
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\obj\Debug\net8.0\aula_de_Array.dll
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\obj\Debug\net8.0\refint\aula_de_Array.dll
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\obj\Debug\net8.0\aula_de_Array.pdb
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\obj\Debug\net8.0\aula_de_Array.genruntimeconfig.cache
+C:\Users\brian.vcruz\source\repos\aula_de_Array\aula_de_Array\obj\Debug\net8.0\ref\aula_de_Array.dll
